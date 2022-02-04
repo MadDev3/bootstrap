@@ -1,0 +1,52 @@
+
+*{
+	font-family: 'Exo 2', sans-serif;
+	font-weight: 600;
+	margin: 0;
+}
+
+p{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+header{
+	height: auto;
+}
+
+.main{
+	margin-top: 300px;
+}
+
+h5{
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.about{
+	margin-top: 50px;
+	margin-bottom: 100px;
+}
+
+.project{
+	margin-top: 30px;
+}
+
+.project h3{
+	margin-top: 20px;
+	margin-left: 10px;
+}
+
+.project p{
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+.project button{
+	margin-left: 10px;
+}
+
+.border{
+	padding-bottom: 10px;
+}
